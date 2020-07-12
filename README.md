@@ -21,7 +21,12 @@
 
 这是一段代码测试
 
+单行代码块`consloe.log("hello world")`
+
+多行代码块
 ``` javascript
  var name = rico
  consloe.log(name)
 ```
+
+更新内容：已添加单行代码块，修复了链接不可点的BUG
